@@ -9,9 +9,9 @@ I am Ndangoh Harrison TEGHA   I am an aspiring Software Developer
 *Github*  
 ***HTML***  
 unorder list
--item1
--item2
--item 2.1
+-item1  
+-item2  
+-item 2.1  
 order list
 1. Item1
 2. Item2
