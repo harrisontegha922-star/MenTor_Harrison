@@ -22,5 +22,6 @@ The tranditional `Hello World` code To run my project follow the following steps
 Git init __ In the folder you chose to work on git clone <url> __ To clone my repo  
 ```The will run the code below   
 ``` Javascript
-Console.log("Hello World").  
+Console.log("Hello World")
+``` 
 THE AI MODEL WAS PROVIDED BY [yvesdylane](https://github.com/yvesdeylane)
