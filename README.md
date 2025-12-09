@@ -17,4 +17,9 @@ order list
 2. Item2
 > Figma
 >> I need money  
-The tranditional `Hello World` code
+The tranditional `Hello World` code To run my project follow the following steps 
+```cmd
+Git init __ In the folder you choseto work on git clone <url> __ To clone my repo  
+```The will run the code below   
+``` Javascript
+Console.log("Hello World")
