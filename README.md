@@ -1,4 +1,4 @@
-# Programming. 
+# Programming
 ## Front end
 ### Back end
 #### Database
